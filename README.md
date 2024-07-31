@@ -10,4 +10,7 @@ Use /play to start playing the songs.
 - Spotify
 
 Links / Text / Playlists
- 
+
+
+# Server Support
+ https://discord.gg/mVUMG7tdRa
